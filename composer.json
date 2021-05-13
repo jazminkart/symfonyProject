@@ -20,7 +20,7 @@
         "symfony/orm-pack": "^1.0",
         "symfony/security-bundle": "5.0.*",
         "symfony/security-core": "5.0.*",
-        "symfony/security-guard": "5.0.*",
+        "symfony/security-guard": "5.2.*",
         "symfony/translation": "5.0.*",
         "symfony/twig-pack": "^1.0",
         "symfony/validator": "5.0.*",
